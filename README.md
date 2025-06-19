@@ -38,3 +38,6 @@ Notepad code for web test cases.
 
 ![image alt](https://github.com/Omitdeb97/Automated-Web-Testing-Framework-using-Selenium-Python/blob/main/web%20page%20test%20case.png?raw=true)
 Image of web test case.
+
+## Learing
+I built an automated web testing framework using Selenium with Python and Pytest to test the login functionality of a sample website. I wrote and executed test cases for valid login, invalid password, empty username, and empty password. 

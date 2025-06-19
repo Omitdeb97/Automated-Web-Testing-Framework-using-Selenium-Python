@@ -36,5 +36,5 @@ PowerShell commands for web automation.
 ![image alt](https://github.com/Omitdeb97/Automated-Web-Testing-Framework-using-Selenium-Python/blob/main/Web%20automaton%20code.png?raw=true)
 Notepad code for web test cases. 
 
-![image alt](https://github.com/Omitdeb97/Packet_-Sniffing_with-_Wireshark/blob/main/http%20.png?raw=true)
+![image alt](https://github.com/Omitdeb97/Automated-Web-Testing-Framework-using-Selenium-Python/blob/main/web%20page%20test%20case.png?raw=true)
 Image of web test case.

@@ -30,3 +30,9 @@ This project demonstrates the creation of an automated web testing framework usi
    pytest tests/test_login.py
 
 ## Screen Shorts
+![image alt](https://github.com/Omitdeb97/Packet_-Sniffing_with-_Wireshark/blob/main/http%20.png?raw=true)
+PowerShell commands for web automation. 
+![image alt](https://github.com/Omitdeb97/Packet_-Sniffing_with-_Wireshark/blob/main/http%20.png?raw=true)
+Notepad code for web test cases 
+![image alt](https://github.com/Omitdeb97/Packet_-Sniffing_with-_Wireshark/blob/main/http%20.png?raw=true)
+Image of web test case

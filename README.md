@@ -23,8 +23,8 @@ This project demonstrates the creation of an automated web testing framework usi
 
 ## How to Run
 1. Clone the repository
-2. Install required packages: `pip install selenium pytest`
-3. Download and place the correct version of ChromeDriver in the `drivers` folder
+2. Install required packages: pip install selenium pytest
+3. Download and place the correct version of ChromeDriver in the drivers folder
 4. Run tests using:  
    bash
    pytest tests/test_login.py
